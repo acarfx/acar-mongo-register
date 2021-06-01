@@ -1,0 +1,21 @@
+{
+  "name": "acar-mongo-register",
+  "version": "1.0.0",
+  "main": "acar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "acar",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "moment-timezone": "^0.5.31",
+    "mongoose": "^5.12.11",
+    "ms": "^2.1.3",
+    "util": "^0.12.3"
+  }
+}
