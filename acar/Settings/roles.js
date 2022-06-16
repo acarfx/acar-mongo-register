@@ -8,7 +8,6 @@ module.exports = {
         kadınRolleri: ["817332335468085269","817332335468085272"],
         teyitciRolleri: ["817332335539912721"],
         tagRolü: ["817332335468085274"],
-        tagsızRolü: [""],
         boosterRolü: "817333521655398410",
         vipRolü: "",
         kurucuRolleri: ["817332335539912721"],
